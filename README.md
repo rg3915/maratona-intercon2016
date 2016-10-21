@@ -8,4 +8,5 @@ http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais
 
 ## Especificações
 
-Python 3.5
+* Linguagem: Python 3.5
+* Framework web: Django 1.10.2
