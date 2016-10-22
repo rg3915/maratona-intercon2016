@@ -2,7 +2,6 @@ from django.db import models
 
 
 class Eleitor(models.Model):
-    periodo = models.DateField(blank=True, null=True)
     uf = models.CharField(blank=True, null=True, max_length=2)
     municipio = models.CharField(max_length=50, blank=True, null=True)
     cod_municipio_tse = models.IntegerField()
