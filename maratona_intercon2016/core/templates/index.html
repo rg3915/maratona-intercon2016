@@ -12,12 +12,23 @@
 
         <div class="form-group">
             <label for="id_bairro">Bairro</label>
-            <select name="bairro" id="id_bairro">
-                <option value="butanta">Butantã</option>
-                <option value="cambuci">Cambuci</option>
-                <option value="diadema">Diadema</option>
-                <option value="jabaquara">Jabaquara</option>
-            </select>
+            {% if bairros %}
+                <select name="bairro" id="id_bairro">
+                    {% for bairro in bairros %}
+                        <option value="{{ bairro.bairro }}">{{ bairro.bairro }}</option>
+                    {% endfor %}
+    <!--
+                    <option value="butanta">Butantã</option>
+                    <option value="cambuci">Cambuci</option>
+                    <option value="diadema">Diadema</option>
+                    <option value="jabaquara">Jabaquara</option>
+    -->
+                </select>
+            {% else %}
+                <select name="bairros" id="id_bairros">
+                    <option value="">---</option>
+                </select>
+            {% endif %}
         </div>
 
         <button type="submit" class="btn btn-default">
