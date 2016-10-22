@@ -14,8 +14,12 @@ class Eleitor(models.Model):
     qtd_eleitores_no_perfil = models.IntegerField()
 
     class Meta:
+        ordering = ('id',)
         verbose_name = 'eleitor'
         verbose_name_plural = 'eleitores'
+
+    def __str__(self):
+        return str(self.id)
 
 
 class Voto(models.Model):

@@ -19,4 +19,5 @@ http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais
 ```bash
 make shell_bairro
 make shell_eleitor
+make shell_voto
 ```
