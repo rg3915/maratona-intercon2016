@@ -8,7 +8,7 @@
 
 {% block content %}
 
-    <form class="form-inline" action="." method="POST">
+    <form class="form-inline" action="." method="GET">
 
         <div class="form-group">
             <label for="id_bairro">Bairro</label>
@@ -17,12 +17,6 @@
                     {% for bairro in bairros %}
                         <option value="{{ bairro.bairro }}">{{ bairro.bairro }}</option>
                     {% endfor %}
-    <!--
-                    <option value="butanta">Butantã</option>
-                    <option value="cambuci">Cambuci</option>
-                    <option value="diadema">Diadema</option>
-                    <option value="jabaquara">Jabaquara</option>
-    -->
                 </select>
             {% else %}
                 <select name="bairros" id="id_bairros">
@@ -37,25 +31,25 @@
 
     </form>
 
-    <div id="candidatos_bairro"></div>
-
-    <script>
-    {
-        Morris.Bar({
-            element: 'candidatos_bairro',
-            data: [
-                { candidato: 'Fernando Haddad', votos_validos: 1000 },
-                { candidato: 'João Dória Jr.', votos_validos: 2000 }
-            ],
-            xkey: 'candidato',
-            ykeys: ['votos_validos'],
-            labels: ['Votos Válidos'],
-            barColors: function (row, series, type) {
-                        if(row.label == "Fernando Haddad") return "#FF0000";
-                        else return "#0000FF";
-                    }
-        });
-    }
-    </script>
+    <div id="candidatos_bairro">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Candidato</th>
+                    <th>Total de Votos</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% if votos %}
+                    {% for voto in votos %}
+                        <tr>
+                            <td>{{ voto.nome_candidato }}</td>
+                            <td>{{ voto.total_votos }}</td>
+                        </tr>
+                    {% endfor %}
+                {% endif %}
+            </tbody>
+        </table>
+    </div>
 
 {% endblock %}
