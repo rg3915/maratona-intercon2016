@@ -1,4 +1,5 @@
 import csv
+from maratona_intercon2016.core.models import Bairro
 
 bairro_list = []
 
@@ -10,7 +11,8 @@ with open('maratona_intercon2016/zona_bairro.csv', 'r') as f:
     f.close()
 
 for i in range(len(bairro_list)):
-    print(bairro_list[i]['ZONA'], bairro_list[i]['BAIRRO'])
+    obj = Bairro(zona=bairro_list[i]['ZONA'], bairro=bairro_list[i]['BAIRRO'])
+    obj.save()
 
 
 # done
