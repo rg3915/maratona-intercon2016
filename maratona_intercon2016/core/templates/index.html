@@ -8,7 +8,43 @@
 
 {% block content %}
 
-    <h1>Alguma coisa</h1>
-    <p>22/10/2016</p>
+    <form class="form-inline" action="." method="POST">
+
+        <div class="form-group">
+            <label for="id_bairro">Bairro</label>
+            <select name="bairro" id="id_bairro">
+                <option value="butanta">Butantã</option>
+                <option value="cambuci">Cambuci</option>
+                <option value="diadema">Diadema</option>
+                <option value="jabaquara">Jabaquara</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-default">
+            Buscar
+        </button>
+
+    </form>
+
+    <div id="candidatos_bairro"></div>
+
+    <script>
+    {
+        Morris.Bar({
+            element: 'candidatos_bairro',
+            data: [
+                { candidato: 'Fernando Haddad', votos_validos: 1000 },
+                { candidato: 'João Dória Jr.', votos_validos: 2000 }
+            ],
+            xkey: 'candidato',
+            ykeys: ['votos_validos'],
+            labels: ['Votos Válidos'],
+            barColors: function (row, series, type) {
+                        if(row.label == "Fernando Haddad") return "#FF0000";
+                        else return "#0000FF";
+                    }
+        });
+    }
+    </script>
 
 {% endblock %}
