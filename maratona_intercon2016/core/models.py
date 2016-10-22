@@ -27,5 +27,12 @@ class Voto(models.Model):
 
 
 class Bairro(models.Model):
-    zona = models.IntegerField()
-    bairro = models.CharField(max_length=50, blank=True, null=True,)
+    zona = models.IntegerField(unique=True)
+    bairro = models.CharField(
+        unique=True, max_length=50, blank=True, null=True,)
+
+    def __str__(self):
+        return self.bairro
+
+    class Meta:
+        ordering = ('bairro',)
