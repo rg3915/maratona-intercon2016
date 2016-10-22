@@ -1,0 +1,11 @@
+click==6.6
+Flask==0.11.1
+Flask-FlatPages==0.6
+Frozen-Flask==0.13
+itsdangerous==0.24
+Jinja2==2.8
+Markdown==2.6.7
+MarkupSafe==0.23
+pkg-resources==0.0.0
+PyYAML==3.12
+Werkzeug==0.11.11
