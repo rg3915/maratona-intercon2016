@@ -53,4 +53,28 @@
         </table>
     </div>
 
+    <div id="eleitores_bairro">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Sexo</th>
+                    <th>Faixa Etária</th>
+                    <th>Escolaridade</th>
+                    <th>Quantidade de Eleitores</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% if eleitores %}
+                    {% for eleitor in eleitores %}
+                        <tr>
+                            <td>{{ eleitor.sexo }}</td>
+                            <td>{{ eleitor.faixa_etaria }}</td>
+                            <td>{{ eleitor.grau_de_escolaridade }}</td>
+                            <td>{{ eleitor.qtd_eleitores_no_perfil }}</td>
+                        </tr>
+                    {% endfor %}
+                {% endif %}
+            </tbody>
+        </table>
+    </div>
 {% endblock %}
