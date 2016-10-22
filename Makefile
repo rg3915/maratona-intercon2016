@@ -3,3 +3,6 @@ shell_bairro:
 
 shell_eleitor:
 	./manage.py shell < shell/shell_eleitor.py
+
+shell_voto:
+	./manage.py shell < shell/shell_voto.py
