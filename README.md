@@ -7,7 +7,7 @@ http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais
 
 ## Objetivo
 
-* Cruzar os dados dos votos válidos para os candidatos mais votados do município de São Paulo com o perfil dos eleitores por bairro.
+Cruzar os dados dos votos válidos para os candidatos mais votados do município de São Paulo com o perfil dos eleitores por bairro.
 
 ## Especificações
 
