@@ -1,10 +1,10 @@
-#HSLIDE
+#VSLIDE
 
 ![LOGO](maratona_intercon2016/core/static/images/logo-grupy.png)
 
 #### Maratona Hacker Cívica - Intercon 2016
 
-#HSLIDE
+#VSLIDE
 
 # <b>A Maratona</b>
 
@@ -12,7 +12,7 @@
 <img src="maratona_intercon2016/core/static/images/maratona_hacker_03.jpg" />
 
 
-#HSLIDE
+#VSLIDE
 
 # <b>A Maratona</b>
 <br>
@@ -21,7 +21,7 @@
 ### <span class="fragment" data-fragment-index="3" data-autoslide="2000">Desenvolver projeto para facilitar acesso à serviços essenciais do governo</span>
 
 
-#HSLIDE
+#VSLIDE
 
 # <b>A Equipe</b>
 
@@ -29,7 +29,7 @@
 <img src="maratona_intercon2016/core/static/images/maratona_hacker_04.jpg" />
 
 
-#HSLIDE
+#VSLIDE
 
 # <b>A Equipe</b>
 
@@ -37,27 +37,27 @@
              margin: 0px;
              border: 3px solid #000000;
              padding: 20px 18px;
-             height: 300px;
-             width: 450px;">
+             height: 500px;
+             width: 900px;">
              <span style="display: block;
              margin: 0px;
              border: 3px solid #000000;
              border-radius: 10%;
              padding: 20px 18px;
-             height: 100px;
-             width: 100px;
+             height: 200px;
+             width: 200px;
              position: relative;">
              <b>
              Edmar Inocencio
              </b>
              </span>
              <span style="display: block;
-             margin: -100px;
+             margin: -100px 10px;
              border: 3px solid #000000;
              border-radius: 10%;
              padding: 25px 19px;
-             height: 100px;
-             width: 100px;
+             height: 200px;
+             width: 200px;
              position: relative;
              left: 220px">
              <b>
@@ -65,12 +65,12 @@
              </b>
              </span>
              <span style="display: block;
-             margin: -100px 10px;
+             margin: -100px 230px;
              border: 3px solid #000000;
              border-radius: 10%;
              padding: 25px 18px;
-             height: 100px;
-             width: 100px;
+             height: 200px;
+             width: 200px;
              position: relative;
              left: 230px">
              <b>
@@ -78,27 +78,27 @@
              </b>
              </span>
              <span style="display: block;
-             margin: 150px 10px;
+             margin: 0px;
              border: 3px solid #000000;
              border-radius: 10%;
              padding: 15px 19px;
-             height: 100px;
-             width: 100px;
+             height: 200px;
+             width: 200px;
              position: relative;
-             left: 50px">
+             left: 130px">
              <b>
              Regis da Silva Santos
              </b>
              </span>
              <span style="display: block;
-             margin: -250px 90px 50px;
+             margin: -200px 90px 50px;
              border: 3px solid #000000;
              border-radius: 10%;
              padding: 2px 19px;
-             height: 100px;
-             width: 100px;
+             height: 200px;
+             width: 200px;
              position: relative;
-             left: 100px">
+             left: 250px">
              <b>
              Rodrigo Gomes da Silveira
              </b>
@@ -106,7 +106,7 @@
 </span>
 
 
-#HSLIDE
+#VSLIDE
 
 # <b>O Projeto</b>
 
@@ -114,7 +114,7 @@
 <img src="maratona_intercon2016/core/static/images/maratona_hacker_01.jpg" />
 
 
-#HSLIDE
+#VSLIDE
 
 # <b>O Projeto</b>
 
@@ -125,14 +125,14 @@
              border: 3px solid #000000;
              padding: 20px 18px;
              height: 300px;
-             width: 450px;">
+             width: 900px;">
              <span style="display: block;
-             margin: 30px 30px;
+             margin: 5px 50px;
              border: 3px solid #000000;
              border-radius: 10%;
              padding: 30px 30px;
-             height: 150px;
-             width: 150px;
+             height: 250px;
+             width: 250px;
              position: relative;
              left: -30px">
              <b>
@@ -140,26 +140,26 @@
              </b>
              </span>
              <span style="display: block;
-             margin: -150px 0px;
+             margin: -200px 0px;
              padding: -10px 20px;
              height: 100px;
              width: 100px;
              position: relative;
              font-size: 6em;
-             left: 183px">
+             left: 300px">
              <b>
              X
              </b>
              </span>
              <span style="display: block;
-             margin: 20px 350px;
+             margin: 45px 350px;
              border: 3px solid #000000;
              border-radius: 10%;
              padding: 40px 40px;
-             height: 150px;
-             width: 150px;
+             height: 250px;
+             width: 250px;
              position: relative;
-             left: -80px">
+             left: 35px">
              <b>
              Perfil dos Eleitores
              </b>
@@ -168,16 +168,16 @@
 
 
 
-#HSLIDE
+#VSLIDE
 
 # <b>O Projeto</b>
 
 <span style="display: block;
-             margin: 0px;
+             margin: 0 auto;
              border: 3px solid #000000;
              padding: 20px 18px;
-             height: 300px;
-             width: 450px;">
+             height: 350px;
+             width: 900px;">
              <span style="display: block;
              margin: 0px;
              height: 100px;
@@ -186,36 +186,36 @@
              ![PYTHON_LOGO](https://www.python.org/static/community_logos/python-powered-h-100x130.png)
              </span>
              <span style="display: block;
-             margin: -100px;
+             margin: 50px 0px;
              padding: 30px 0px 0px;
              height: 100px;
              width: 100px;
-             position: relative;
-             left: 220px">
+             position: relative;">
              ![DJANGO_LOGO](https://www.djangoproject.com/s/img/logos/django-logo-negative.png)
              </span>
              <span style="display: block;
-             margin: 30px 10px;
+             margin: -120px 10px;
              background-color: #563d7c;
-             padding: 10px 16px 0px;
-             height: 50px;
-             width: 100px;
+             padding: 30px 45px 0px;
+             height: 100px;
+             width: 200px;
              position: relative;
-             left: 230px">
-             <span style="font-family: 'Helvetica Neue Bold'; font-size: 1.2em; color: #ffffff;">
+             left: 200px">
+             <span style="font-family: 'Helvetica Neue Bold'; font-size: 2em; color: #ffffff;">
              Bootstrap
              </span>
              </span>
              <span style="display: block;
-             margin: -100px 10px 50px;
+             margin: 0px 10px 50px;
              padding: 10px 0px;
-             height: 100px;
-             width: 100px;
+             height: 200px;
+             width: 200px;
              position: relative;
-             left: 350px">
+             left: 500px">
              ![REGEX_LOGO](https://hackr.io/tutorials/learn-regular-expressions-regex/regular-expressions-regex_logo)
              </span>
 </span>
 
-repositório: https://github.com/rg3915/maratona-intercon2016
-<br>
+<span style="; font-size: 1em; color: #ffffff;">
+  repositório: https://github.com/rg3915/maratona-intercon2016
+</span>
