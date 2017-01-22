@@ -9,7 +9,12 @@
 # <b>A Maratona</b>
 
 <br>
-![FOTO_MARATONA](maratona_intercon2016/core/static/images/maratona_hacker_03.jpg)
+<img src="maratona_intercon2016/core/static/images/maratona_hacker_03.jpg" />
+
+
+#HSLIDE
+
+# <b>A Maratona</b>
 
 ## <span class="fragment" data-fragment-index="1" data-autoslide="2000">Madrugada entre os 2 dias do evento</span>
 ## <span class="fragment" data-fragment-index="2" data-autoslide="2000">+ de 8 horas codando</span>
@@ -21,7 +26,12 @@
 # <b>A Equipe</b>
 
 <br>
-![FOTO_EQUIPE](maratona_intercon2016/core/static/images/maratona_hacker_04.jpg)
+<img src="maratona_intercon2016/core/static/images/maratona_hacker_04.jpg" />
+
+
+#HSLIDE
+
+# <b>A Equipe</b>
 
 <span style="display: block;
              margin: 0px;
@@ -94,7 +104,12 @@
 # <b>O Projeto</b>
 
 <br>
-![FOTO_PROJ](maratona_intercon2016/core/static/images/maratona_hacker_01.jpg)
+<img src="maratona_intercon2016/core/static/images/maratona_hacker_01.jpg" />
+
+
+#HSLIDE
+
+# <b>O Projeto</b>
 
 ## <span class="fragment" data-fragment-index="1" data-autoslide="2000">Dados do TSE - Eleições 2016 São Paulo</span>
 
@@ -141,10 +156,6 @@
 #HSLIDE
 
 # <b>O Projeto</b>
-
-<br>
-![FOTO_PROJ](maratona_intercon2016/core/static/images/maratona_hacker_01.jpg)
-
 
 <span style="display: block;
              margin: 0px;
