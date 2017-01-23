@@ -34,10 +34,7 @@
 # <b>A Equipe</b>
 
 <br>
-<img class="fragment"
-  data-fragment-index="1"
-  data-autoslide="2000"
-  src="maratona_intercon2016/core/static/images/maratona_hacker_07.png" />
+<img src="maratona_intercon2016/core/static/images/maratona_hacker_07.png" />
 
 
 #VSLIDE
