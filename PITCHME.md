@@ -9,7 +9,7 @@
 # <b>A Maratona</b>
 
 <br>
-<img style="border=0" src="maratona_intercon2016/core/static/images/maratona_hacker_03.jpg" />
+<img style="border: 0" src="maratona_intercon2016/core/static/images/maratona_hacker_03.jpg" />
 
 
 #VSLIDE
