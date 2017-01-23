@@ -34,7 +34,7 @@
 # <b>A Equipe</b>
 
 <br>
-<img src="maratona_intercon2016/core/static/images/maratona_hacker_07.png" />
+<img src="maratona_intercon2016/core/static/images/maratona_hacker_071.png" />
 
 
 #VSLIDE
@@ -52,10 +52,7 @@
 ### <span class="fragment" data-fragment-index="1" data-autoslide="2000">Dados do TSE - Eleições 2016 São Paulo</span>
 
 <br>
-<img class="fragment"
-  data-fragment-index="2"
-  data-autoslide="2000"
- src="maratona_intercon2016/core/static/images/maratona_hacker_06.png" />
+<img src="maratona_intercon2016/core/static/images/maratona_hacker_06.png" />
 
 
 #VSLIDE
@@ -63,10 +60,7 @@
 # <b>O Projeto</b>
 
 <br>
-<img class="fragment"
-  data-fragment-index="1"
-  data-autoslide="2000"
-  src="maratona_intercon2016/core/static/images/maratona_hacker_05.png" />
+<img src="maratona_intercon2016/core/static/images/maratona_hacker_05.png" />
 
 <span style="font-size: 1em;">
   repositório: https://github.com/rg3915/maratona-intercon2016
