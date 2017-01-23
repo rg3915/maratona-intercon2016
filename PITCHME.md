@@ -1,6 +1,6 @@
 #VSLIDE
 
-<img style="border: 0" src="maratona_intercon2016/core/static/images/logo-grupy.png" >
+<img style="border: 0; box-shadow: none;" src="maratona_intercon2016/core/static/images/logo-grupy.png" >
 
 #### Maratona Hacker Cívica - Intercon 2016
 
@@ -9,7 +9,7 @@
 # <b>A Maratona</b>
 
 <br>
-<img style="border: 0" src="maratona_intercon2016/core/static/images/maratona_hacker_03.jpg" />
+<img style="border: 0; box-shadow: none;" src="maratona_intercon2016/core/static/images/maratona_hacker_03.jpg" />
 
 
 #VSLIDE
@@ -26,7 +26,7 @@
 # <b>A Equipe</b>
 
 <br>
-<img style="border: 0" src="maratona_intercon2016/core/static/images/maratona_hacker_04.jpg" />
+<img style="border: 0; box-shadow: none;" src="maratona_intercon2016/core/static/images/maratona_hacker_04.jpg" />
 
 
 #VSLIDE
@@ -34,7 +34,7 @@
 # <b>A Equipe</b>
 
 <br>
-<img style="border: 0" src="maratona_intercon2016/core/static/images/maratona_hacker_071.png" />
+<img style="border: 0; box-shadow: none;" src="maratona_intercon2016/core/static/images/maratona_hacker_071.png" />
 
 
 #VSLIDE
@@ -42,7 +42,7 @@
 # <b>O Projeto</b>
 
 <br>
-<img style="border: 0" src="maratona_intercon2016/core/static/images/maratona_hacker_01.jpg" />
+<img style="border: 0; box-shadow: none;" src="maratona_intercon2016/core/static/images/maratona_hacker_01.jpg" />
 
 
 #VSLIDE
@@ -52,7 +52,7 @@
 ### <span class="fragment" data-fragment-index="1" data-autoslide="2000">Dados do TSE - Eleições 2016 São Paulo</span>
 
 <br>
-<img style="border: 0" src="maratona_intercon2016/core/static/images/maratona_hacker_06.png" />
+<img style="border: 0; box-shadow: none;" src="maratona_intercon2016/core/static/images/maratona_hacker_06.png" />
 
 
 #VSLIDE
@@ -60,7 +60,7 @@
 # <b>O Projeto</b>
 
 <br>
-<img style="border: 0" src="maratona_intercon2016/core/static/images/maratona_hacker_05.png" />
+<img style="border: 0; box-shadow: none;" src="maratona_intercon2016/core/static/images/maratona_hacker_05.png" />
 
 <span style="font-size: 1em;">
   repositório: https://github.com/rg3915/maratona-intercon2016
@@ -72,7 +72,7 @@
 # <b>O Projeto</b>
 
 <br>
-<img style="border: 0" src="maratona_intercon2016/core/static/images/projeto_01.png" />
+<img style="border: 0; box-shadow: none;" src="maratona_intercon2016/core/static/images/projeto_01.png" />
 
 
 #VSLIDE
@@ -80,7 +80,7 @@
 # <b>O Projeto</b>
 
 <br>
-<img style="border: 0" src="maratona_intercon2016/core/static/images/projeto_02.png" />
+<img style="border: 0; box-shadow: none;" src="maratona_intercon2016/core/static/images/projeto_02.png" />
 
 
 #VSLIDE
@@ -88,7 +88,7 @@
 # <b>Obrigado!</b>
 
 <br>
-<img style="border: 0" src="maratona_intercon2016/core/static/images/logo-grupy.png" />
+<img style="border: 0; box-shadow: none;" src="maratona_intercon2016/core/static/images/logo-grupy.png" />
 <br>
 
 <span style="font-size: 1em;">
