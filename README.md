@@ -21,3 +21,5 @@ make shell_bairro
 make shell_eleitor
 make shell_voto
 ```
+
+Apresentado em [Meetup iMasters We Are The Champions 2017](http://meetu.ps/35CdtZ) dia 23/01/17 através de [gitpitch](https://gitpitch.com/rg3915/maratona-intercon2016/master).
