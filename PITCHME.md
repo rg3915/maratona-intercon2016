@@ -52,7 +52,7 @@
 ### <span class="fragment" data-fragment-index="1" data-autoslide="2000">Dados do TSE - Eleições 2016 São Paulo</span>
 
 <br>
-<img style="border: 0; box-shadow: none;" data-fragment-index="2" data-autoslide="2000" src="maratona_intercon2016/core/static/images/maratona_hacker_06.png" />
+<img style="border: 0; box-shadow: none;" class="fragment" data-fragment-index="2" data-autoslide="2000" src="maratona_intercon2016/core/static/images/maratona_hacker_06.png" />
 
 
 #VSLIDE
