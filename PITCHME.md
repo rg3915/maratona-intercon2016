@@ -74,3 +74,32 @@
 <span style="font-size: 1em;">
   repositório: https://github.com/rg3915/maratona-intercon2016
 </span>
+
+
+#VSLIDE
+
+# <b>O Projeto</b>
+
+<br>
+<img src="maratona_intercon2016/core/static/images/projeto_01.png" />
+
+
+#VSLIDE
+
+# <b>O Projeto</b>
+
+<br>
+<img src="maratona_intercon2016/core/static/images/projeto_02.png" />
+
+
+#VSLIDE
+
+# <b>Obrigado!</b>
+
+<br>
+<img src="maratona_intercon2016/core/static/images/logo-grupy.png" />
+<br>
+
+<span style="font-size: 1em;">
+  MeetUp: https://www.meetup.com/pt-BR/Grupy-SP/
+</span>
